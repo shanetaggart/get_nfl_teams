@@ -1,7 +1,7 @@
-# get_nfl_teams
+# Get NFL Teams
 <h3>Purpose</h3>
 
-<p>This Wordpress plug-in was developed to dynamically pull a list of NFL teams and related information from an API, to then display it on a page in a user-friendly format.</p> 
+<p>This Wordpress plug-in was developed to dynamically pull a list of NFL teams and related information from an API, to then display it on a page in a user-friendly format for the fictional company ACME Sports.</p> 
 
 <h3>Usage</h3>
 
