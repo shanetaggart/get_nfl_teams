@@ -16,7 +16,7 @@ include plugin_dir_path(__FILE__) . 'Assets/Includes/get_nfl_teams_show_data.php
 //Use shortcode [teams] to use this plugin.
 add_shortcode('teams', 'get_nfl_teams');
 
-//Fuction called with shortcode
+//Function called with shortcode
 function get_nfl_teams(){
 
 	$html_body = get_nfl_teams_show_data();
