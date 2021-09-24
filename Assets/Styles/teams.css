@@ -1,3 +1,5 @@
+/* Designed for use with The theme Twenty Twenty One in dark mode. !important attributes used to override conflicting theme styles. */
+
 @-webkit-keyframes slideInBottom {
   0% {
     transform: translateY(100%);
